@@ -84,7 +84,7 @@ questions = [
         "question": "Workplace democracy within capitalism is an acceptable alternative to a complete socialization of the economy.",
         "i18n": {
             "de": "Die Demokratie am Arbeitsplatz im Kapitalismus ist eine akzeptable Alternative zu einer vollständigen Sozialisierung der Wirtschaft.",
-            "ko": "자본주의사회에서 직장 내 민주주의는 경제의 완전한 사회주의화에 대한 수용 가능한 대안이다."
+            "ko": "자본주의사회에서 작업장 민주주의는 경제의 완전한 사회주의화에 대한 수용 가능한 대안이다."
         },
         "effect": {
             "a": -10,
@@ -390,7 +390,7 @@ questions = [
         "question": "The principles of workplace democracy and self-management are desirable.",
         "i18n": {
             "de": "Die Grundsätze der Demokratie am Arbeitsplatz und der Selbstverwaltung sind wünschenswert.",
-            "ko": "직장내 민주주의와 자기 관리의 원칙이 가장 바람직하다."
+            "ko": "작업장 민주주의와 자주관리의 원칙이 가장 바람직하다."
         },
         "effect": {
             "a": 0,
@@ -696,7 +696,7 @@ questions = [
         "question": "Democratic centralism is an authoritarian organizational structure that disregards the masses.",
         "i18n": {
             "de": "Demokratischer Zentralismus ist eine autoritäre Organisationsstruktur, die die Massen missachtet.",
-            "ko": "민주주의 중심주의는 대중을 무시하는 권위주의적 조직 구조이다."
+            "ko": "민주집중제는 대중을 무시하는 권위주의적 조직 구조이다."
         },
         "effect": {
             "a": 0,
